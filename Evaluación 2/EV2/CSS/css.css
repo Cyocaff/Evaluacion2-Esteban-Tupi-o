@@ -1,6 +1,6 @@
 header
 {
-background-color:white;
+background-color:white;	
 }
 table{
 	background-color: rgb(7, 187, 157);
@@ -27,4 +27,4 @@ input{
 button{
 	background-color:rgb(255, 106, 106);
 	border-radius: 50%;
-}
+}	
