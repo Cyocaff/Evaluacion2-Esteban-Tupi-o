@@ -1,4 +1,30 @@
 header
 {
-background-color: blueviolet;
+background-color:white;
+}
+table{
+	background-color: rgb(7, 187, 157);
+	padding-top: 10px;
+	color: white;
+}
+
+h2,h3,h4{
+	color:white
+}
+form{
+	width: 70%;
+	border-radius: 10px;
+	padding-bottom: 60px;
+	color:white;
+	background-color: rgba(27, 26, 26, 0.753);
+}
+
+input{
+	border-radius: 5px;
+	padding-left: 20%;
+
+}
+button{
+	background-color:rgb(255, 106, 106);
+	border-radius: 50%;
 }
